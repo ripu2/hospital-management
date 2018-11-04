@@ -558,5 +558,5 @@ this.setVisible(false);
     private javax.swing.JTextField t4;
     private javax.swing.JTextField t5;
     private javax.swing.JTextArea ta;
-    // End of variables declaration                   
+                    
 }
